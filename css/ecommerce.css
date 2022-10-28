@@ -1,0 +1,55 @@
+body{
+    background-color:#262E34;
+}
+
+#titulo{
+    text-decoration: none;
+    display: inline;
+    font-size: 50px;
+    color: #a4817a;
+    font-family: 'Times New Roman';
+    font-weight: bold;
+}
+
+#link-interno{
+    text-decoration: none;
+    font-size: 32px; 
+    color: #a4817a;
+}
+
+h4 {
+    text-decoration: none;
+    font-size: 32px; 
+    color: #a4817a;
+}
+
+.titulo-produto{
+    font-size: 18px;
+    color: #fbc5b8;
+}
+
+.valor-produto{
+    text-align: center;
+    font-size: 32px;
+    color:#fbc5b8;
+    font-family: 'Times New Roman';
+    font-weight: bolder;
+}
+
+p {
+    text-align: center;
+    font-size: 18px;
+    color:#fbc5b8;
+    font-family: 'Times New Roman';
+    font-weight: bolder;
+}
+
+#noticiadestaque{
+
+    text-align: center;
+    font-size: 18px;
+    color:#fbc5b8;
+    font-family: 'Times New Roman';
+    font-weight: bolder;
+
+}
